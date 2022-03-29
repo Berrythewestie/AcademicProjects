@@ -1,1 +1,1 @@
-Unlike those listed in the portfolio, these projects are academic assignments/assessments, and are the best examples demonstrating my knowledge of object-oriented programming. The poker game and 2d side-scroller are collaborative projects.
+Unlike those listed in the resume, these projects are academic assignments/assessments, and are the best examples demonstrating my knowledge of object-oriented programming. The poker game and 2d side-scroller are collaborative projects.
